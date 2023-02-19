@@ -8,7 +8,7 @@ public class Main {
     }
 
     public static void task1() {
-        System.out.println("Задача 1");
+        System.out.println("Задача 1/");
         int year = 2023;
         printInfoYear(year);
     }
